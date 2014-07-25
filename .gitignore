@@ -1,0 +1,8 @@
+packages/EntityFramework.5.0.0/Content/App.config.transform
+packages/EntityFramework.5.0.0/Content/Web.config.transform
+*.nupkg
+packages/EntityFramework.5.0.0/EntityFramework.5.0.0.nuspec
+packages/EntityFramework.5.0.0/lib/net40/EntityFramework.dll
+packages/EntityFramework.5.0.0/lib/net40/EntityFramework.xml
+packages/EntityFramework.5.0.0/lib/net45/EntityFramework.dll
+packages/EntityFramework.5.0.0/tools/about_EntityFramework.help.txt
