@@ -1,3 +1,4 @@
 packages/*.*
 SampleWebApp/bin/*.*
+SampleWebApp/obj/*.*
 SampleWebApp.v11.suo
