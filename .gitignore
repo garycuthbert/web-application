@@ -3,3 +3,4 @@ SampleWebApp/bin/*.*
 SampleWebApp/obj/*.*
 SampleWebApp/obj/Debug/*.*
 SampleWebApp.v11.suo
+*.suo
